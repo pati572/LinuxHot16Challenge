@@ -1,55 +1,55 @@
-# AUTOR: TWOJEIMIE
+# AUTOR: Patrycja Plichta
 # Zasady: https://github.com/ZPXD/LinuxHot16Challenge
 
 # HOT 16
 
-# 1. komenda
-# Opis... - czyli co to robi. Krótki, w jednej linijce.
+# 1. cd
+# Opis... - zmiana katalogu
 
-# 2. komenda
-# Opis... - czyli co to robi. Krótki, w jednej linijce.
+# 2. cp
+# Opis... - kopiuje pliki
 
-# 3. komenda
-# Opis... - czyli co to robi. Krótki, w jednej linijce.
+# 3. mkdir
+# Opis... - tworzymy nowy katalog
 
-# 4. komenda
-# Opis... - czyli co to robi. Krótki, w jednej linijce.
+# 4. rmdir
+# Opis... - usuwamy nowy katalog
 
-# 5. komenda
-# Opis... - czyli co to robi. Krótki, w jednej linijce.
+# 5.pwd
+# Opis... - pokazuje katalog, w którym jesteśmy
 
-# 6. komenda
-# Opis... - czyli co to robi. Krótki, w jednej linijce.
+# 6. rm
+# Opis... - usuwamy plik
 
-# 7. komenda
-# Opis... - czyli co to robi. Krótki, w jednej linijce.
+# 7. cat
+# Opis... - edytujemy tekst
 
-# 8. komenda
-# Opis... - czyli co to robi. Krótki, w jednej linijce.
+# 8. cd..
+# Opis... - wyjście z katalogu
 
-# 9. komenda
-# Opis... - czyli co to robi. Krótki, w jednej linijce.
+# 9. mv
+# Opis... - zmieniamy nzawę katalogu
 
-# 10. komenda
-# Opis... - czyli co to robi. Krótki, w jednej linijce.
+# 10. mvdir
+# Opis... - przenosimy lub zmieniamy nazwę katalogu
 
-# 11. komenda
-# Opis... - czyli co to robi. Krótki, w jednej linijce.
+# 11. help
+# Opis... - wyswietla wszystkie polecenia w Linuxie
 
-# 12. komenda
-# Opis... - czyli co to robi. Krótki, w jednej linijce.
+# 12. clear
+# Opis... - czysci okno terminalu
 
-# 13. komenda
-# Opis... - czyli co to robi. Krótki, w jednej linijce.
+# 13. copy
+# Opis... - kopiuje pliki i katalogi
 
-# 14. komenda
-# Opis... - czyli co to robi. Krótki, w jednej linijce.
+# 14. cp
+# Opis... - kopiuje plik
 
-# 15. komenda
-# Opis... - czyli co to robi. Krótki, w jednej linijce.
+# 15. find
+# Opis... - wyszukuje pliki, katalogi
 
-# 16. komenda
-# Opis... - czyli co to robi. Krótki, w jednej linijce.
+# 16. exit
+# Opis... - wylogowuje z konsoli
 
 
 
